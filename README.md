@@ -1,7 +1,7 @@
 # Express-JWT-Authentication
 A simple Authentication with JWT using Node.Js and Express
 
-## Avaible routes
+## Available  routes
 
 
 * "/" post: Only for login
